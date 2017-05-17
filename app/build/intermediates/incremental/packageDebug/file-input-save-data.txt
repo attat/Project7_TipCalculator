@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon May 15 11:57:38 PDT 2017
+2.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b00d70c7c11192543bbb726bde7a00945cad5b05\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_tip_calculator.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cea233ae7d54a07abba2a65c427dbb87cbbe0f71\\classes.dex
+5.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b00d70c7c11192543bbb726bde7a00945cad5b05
+8.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cea233ae7d54a07abba2a65c427dbb87cbbe0f71
+8.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=DEX

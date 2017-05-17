@@ -1,0 +1,4 @@
+#Mon May 15 11:57:37 PDT 2017
+base.0=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_de690202fb66cc3fca5276ae258954ba820bc61d
+renamed.0=classes.dex
+file.0=C\:\\Users\\KushionT\\Desktop\\Project7_TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_de690202fb66cc3fca5276ae258954ba820bc61d\\classes.dex

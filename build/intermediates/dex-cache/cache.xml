@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KushionT\Desktop\Project7_TipCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\KushionT\Desktop\Project7_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b00d70c7c11192543bbb726bde7a00945cad5b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KushionT\Desktop\Project7_TipCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf3245b93eaead01e323475ca9803e0654caf1ad">
+        <dex dex="C:\Users\KushionT\Desktop\Project7_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cea233ae7d54a07abba2a65c427dbb87cbbe0f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KushionT\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\KushionT\Desktop\Project7_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_de690202fb66cc3fca5276ae258954ba820bc61d\classes.dex" />
+    </item>
+
+</items>
